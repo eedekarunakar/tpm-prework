@@ -1,0 +1,21 @@
+user_id,timestamp,action,product_category,revenue
+101,2024-04-01 10:15:00,viewed_product,Electronics,0
+101,2024-04-01 10:20:00,added_to_cart,Electronics,0
+101,2024-04-01 10:30:00,purchased,Electronics,55000
+102,2024-04-02 11:00:00,viewed_product,Fashion,0
+102,2024-04-02 11:10:00,purchased,Fashion,2500
+103,2024-04-03 09:00:00,viewed_product,Accessories,0
+103,2024-04-03 09:05:00,added_to_cart,Accessories,0
+103,2024-04-03 09:15:00,purchased,Accessories,4500
+104,2024-04-04 12:00:00,viewed_product,Electronics,0
+104,2024-04-04 12:30:00,added_to_cart,Electronics,0
+105,2024-04-05 08:00:00,viewed_product,Fashion,0
+105,2024-04-05 08:10:00,purchased,Fashion,900
+106,2024-04-06 01:00:00,viewed_product,Electronics,0
+106,2024-04-06 01:15:00,purchased,Electronics,800
+107,2024-04-07 02:00:00,viewed_product,Accessories,0
+107,2024-04-07 02:20:00,purchased,Accessories,3000
+108,2024-04-08 03:00:00,viewed_product,Fashion,0
+108,2024-04-08 03:30:00,added_to_cart,Fashion,0
+109,2024-04-09 04:00:00,viewed_product,Electronics,0
+109,2024-04-09 04:40:00,purchased,Electronics,1500
