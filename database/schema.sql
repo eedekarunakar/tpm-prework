@@ -1,8 +1,3 @@
--- ============================================
--- TPM PREWORK - ORDER MANAGEMENT SYSTEM
--- PostgreSQL / Supabase Compatible
--- ============================================
-
 -- Drop tables if already exist
 DROP TABLE IF EXISTS payments CASCADE;
 DROP TABLE IF EXISTS order_items CASCADE;
